@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<registroT>
+    <leerT>
+        <fecha>09-05-2023</fecha>
+        <tMax>32º</tMax>
+        <tMin>12º</tMin>
+    </leerT>
+    <leerT>
+        <fecha>10-05-2023</fecha>
+        <tMax>30º</tMax>
+        <tMin>10º</tMin>
+    </leerT>
+     <leerT>
+        <fecha>11-05-2023</fecha>
+        <tMax>29º</tMax>
+         <tMin>11º</tMin>
+    </leerT>
+
+
+
+
+
+
+</registroT>
